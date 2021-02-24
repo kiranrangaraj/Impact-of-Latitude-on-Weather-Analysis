@@ -171,7 +171,7 @@ Both cloudiness and wind speed displayed no relationship to latitude. This was r
 
 ---
 
-## Tools Used ##
+## Technologies Used ##
 * Jupyter Notebook
 * Python - Pandas, Matplotlib, NumPy, SciPy, CitiPy, Gmaps, OS, Requests
 
