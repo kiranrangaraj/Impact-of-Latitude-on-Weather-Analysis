@@ -138,7 +138,7 @@ Both cloudiness and wind speed displayed no relationship to latitude. This was r
    <img src="Images/lat_vs_cloudiness_south.png" width="400">
 </p>
 
-#### Again, r-values for both hemispheres is extremely low indicating no relationship between cloudiness and latitude.
+#### Again, r-values for both hemispheres are extremely low which indicates no relationship between cloudiness & latitude.
 
 ### Wind Speed versus Latitude
 
