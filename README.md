@@ -181,6 +181,4 @@ References
 ---
 
 ## Author ##
-Kiran Rangaraj - Vanderbilt University 2020
-* LinkedIn: [@Kiran Rangaraj](https://www.linkedin.com/in/kiranrangaraj/)
-
+Kiran Rangaraj - LinkedIn: [@Kiran Rangaraj](https://www.linkedin.com/in/kiranrangaraj/)
